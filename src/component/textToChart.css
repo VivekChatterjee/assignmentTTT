@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+}
+
+button {
+  cursor: pointer;
+  padding: 0.4rem;
+  border-radius: 0.6rem;
+  letter-spacing: 0.1rem;
+  margin: 1.5rem;
+}
+
+button:hover {
+  background: crimson;
+  color: white;
+}
+
+.custom-tooltip {
+  background: white;
+  color: #05bfdb;
+  border-radius: 0.6rem;
+  letter-spacing: 0.1rem;
+  padding: 0.4rem;
+}
