@@ -3,7 +3,7 @@ Hey, Welcome to this Repository!
 ## Running the App
 To run this app in your local system, simply download the zip. After unzip, run command **npm install** in the terminal and finally **npm run dev** command to get started.
 
-This project was created using vite with [npm create vite](https://vitejs.dev/guide/)).
+This project was created using vite with [npm create vite](https://vitejs.dev/guide/).
 
 ## Packages
 
