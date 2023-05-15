@@ -15,6 +15,10 @@ button:hover {
   color: white;
 }
 
+button:focus {
+  outline: none;
+}
+
 .custom-tooltip {
   background: white;
   color: #05bfdb;
